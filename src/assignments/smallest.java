@@ -1,4 +1,4 @@
-package com.company;
+package assignments;
 public class smallest {
     public static void main(String[] args) {
         int num1 = 5;
